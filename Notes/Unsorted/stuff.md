@@ -72,6 +72,26 @@
 
 
 
+# progress update 2
+
+<img width="850" height="363" alt="image" src="https://github.com/user-attachments/assets/7db60350-91d6-4236-a3ff-7436c388c3f5" />
+
+- play
+-
+<img width="751" height="275" alt="image" src="https://github.com/user-attachments/assets/2b1aca77-8f48-477d-b2c1-da11fde46606" />
+<img width="328" height="205" alt="image" src="https://github.com/user-attachments/assets/6563e409-d5f5-4d98-b052-58571b65ebb1" />
+<img width="703" height="301" alt="image" src="https://github.com/user-attachments/assets/f6bbe227-9e71-4b01-a872-de67f4286af6" />
+<img width="633" height="205" alt="image" src="https://github.com/user-attachments/assets/ffc62c13-80f9-43a9-9df4-6d17927140ce" />
+
+play works
+	back works
+	encrypt works
+	check works
+	input text works
+quit works
+
+
+
 
 
 
