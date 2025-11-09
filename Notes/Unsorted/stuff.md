@@ -36,3 +36,10 @@
   - plays the `ffmpeg -i usr_share_freedesktop_stereo_bell.oga usr_share_freedesktop_stereo_bell.mp3`  if button pressed
 
   # so far so good! 
+
+
+# It didn't take me long to make this! woah!
+- <img width="663" height="317" alt="image" src="https://github.com/user-attachments/assets/0efca165-ab07-475c-a22d-ed3d537c86b1" />
+- https://bsky.app/profile/did:plc:37lcyqfy4d5r25jvgtabe5kn/post/3m57h6bg3kc24
+- with this kind of music (danganronpa) anything seems to be possible! *vibin* xD https://youtu.be/FVVJ7Zjmtpw?list=RDFVVJ7Zjmtpw&t=70
+
