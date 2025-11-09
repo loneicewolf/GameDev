@@ -32,6 +32,7 @@
   
 
   <img width="1168" height="721" alt="image" src="https://github.com/user-attachments/assets/929a8af2-34cd-4010-be9f-488fa5f8da1e" />
-  - plays the ` ffmpeg -i usr_share_freedesktop_stereo_bell.oga usr_share_freedesktop_stereo_bell.mp3`  if button pressed
+
+  - plays the `ffmpeg -i usr_share_freedesktop_stereo_bell.oga usr_share_freedesktop_stereo_bell.mp3`  if button pressed
 
   # so far so good! 
