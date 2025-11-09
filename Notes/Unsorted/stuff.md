@@ -53,6 +53,22 @@
 
 
 
+# errors on the way
+```
+###############
+#GPT ON THE parse error on calling from caesar_puzzle.gd TO THIS file CIPHER_csr .gd
+# FROM func caesar_cipher(text: String, shift: int) -> String:
+# TO   static func caesar_cipher(text: String, shift: int) -> String:
+### COPY OF THE caesar_puzzle.gd Err code:
+##########
+### SOLVED 1
+	## var encrypted = Cipher.caesar_cipher(input_text, 3)
+	## ERROR: Parse Error: Cannot call non-static function "caesar_cipher()" on the class "res://CIPHER_csr.gd" directly. Make an instance instead.
+	## GPT: just make the func static
+	### SOLVED 1
+##########
+###############
+```
 
 
 
