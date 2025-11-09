@@ -43,3 +43,14 @@
 - https://bsky.app/profile/did:plc:37lcyqfy4d5r25jvgtabe5kn/post/3m57h6bg3kc24
 - with this kind of music (danganronpa) anything seems to be possible! *vibin* xD https://youtu.be/FVVJ7Zjmtpw?list=RDFVVJ7Zjmtpw&t=70
 
+
+
+# PROGRESS
+## playing around with it a bit
+<img width="1376" height="773" alt="image" src="https://github.com/user-attachments/assets/a314b487-6229-45a5-aca3-66485d06fb73" />
+
+<img width="1376" height="774" alt="image" src="https://github.com/user-attachments/assets/6b6174d2-102c-4cb6-89d8-89447ff73893" />
+
+
+
+
