@@ -45,11 +45,17 @@
 
 
 
-# PROGRESS
+# ======================================================= PROGRESS =======================================================
 ## playing around with it a bit
 <img width="1376" height="773" alt="image" src="https://github.com/user-attachments/assets/a314b487-6229-45a5-aca3-66485d06fb73" />
-
 <img width="1376" height="774" alt="image" src="https://github.com/user-attachments/assets/6b6174d2-102c-4cb6-89d8-89447ff73893" />
+<img width="1349" height="705" alt="image" src="https://github.com/user-attachments/assets/aa358601-814a-4b11-aba5-b4f9253c699c" />
+
+
+
+
+
+
 
 
 
