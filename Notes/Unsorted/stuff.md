@@ -17,3 +17,21 @@
 - https://gemini.google.com/app
 - https://chatgpt.com
 
+
+
+
+# PROBLEMS AND SOLUTIONS
+- docs help me to get a overview
+- GPT Helps me a bit to begin
+- right now i think i enjoy it[godot] actually cuz, it's so simple, button,menu,etc. < really nice!
+- now i got into a button and i have no audio file, so I copied /usr/share/sounds OR /usr/share/audio FILES, and then, it only needed mp3 so..
+  - https://askubuntu.com/questions/442997/how-can-i-convert-audio-from-ogg-to-mp3
+  - `ffmpeg -i usr_share_freedesktop_stereo_bell.oga usr_share_freedesktop_stereo_bell.mp3` this should work ig
+  - did it work in godot? [Y/N]: Yes
+  - some simple problems like, "cant attach node cuz no script or whatever > make new script etc and try again, yep works!" and "no scene selected, select this one? yep." 
+  
+
+  <img width="1168" height="721" alt="image" src="https://github.com/user-attachments/assets/929a8af2-34cd-4010-be9f-488fa5f8da1e" />
+  - plays the ` ffmpeg -i usr_share_freedesktop_stereo_bell.oga usr_share_freedesktop_stereo_bell.mp3`  if button pressed
+
+  # so far so good! 
