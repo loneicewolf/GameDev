@@ -1,3 +1,7 @@
+Yas!
+- Danganronpa: All New World Order Themes/Variations 2017 
+- https://youtu.be/z3rG4PpafA4
+
 # unsorted stuff
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b1eb5ec-88f7-481e-9b81-204a5f8ae1d8" />
 
