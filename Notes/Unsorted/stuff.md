@@ -96,3 +96,23 @@ quit works
 
 
 
+# Problems
+
+
+Q: I needed a sound effect for a button
+A: 
+	1. open in terminal in the THIS FOLDER
+	2. mkdir -p ./assets/{audio,pics}
+	3. # cp /usr/share/sounds/freedesktop/stereo/bell.oga ./assets/audio
+	4. # ffmpeg -i assets/audio/bell.oga assets/audio/bell.mp3
+
+
+# Q: Why not use OGA?
+# A: I tried, didn't load/play properly. (I think)
+
+
+# Q: if no sound but "all is right"
+# A: -> unmute.
+
+
+if no sound but "all is right" -> unmute. In settings, 
