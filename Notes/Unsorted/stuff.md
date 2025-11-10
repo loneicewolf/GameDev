@@ -116,3 +116,7 @@ A:
 
 
 if no sound but "all is right" -> unmute. In settings, 
+
+
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/b9d79aa8-ab47-459b-8e5e-19a5d0e0c209" />
