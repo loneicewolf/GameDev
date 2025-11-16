@@ -1,6 +1,7 @@
 - TEMPLATE: BASIC 3D MOVEMENT
-- References used: Docs, Manual, YT, GPT, Stack*Sites, own experience(even if new)
-
+- References used: Docs, Manual, YT, Stack*Sites, own experience(even if new)
+- A note on GPT: Do NOT rely only on it, always verify, because it's often actually wrong, at least the new 5.1 in my experience(s) even when THINKING HARD. Hallucinates often. *Might try PRO again and see if that makes a diff.*
+- See FURTHER READINGS Below
 
 ## GUIDE
 New 3D project, New 3DNode Scene
@@ -13,6 +14,9 @@ Add the following nodes as the following:
   - Camera3D -> Move a bit above CollisionLines(CTRL for snap)
   - CollisionShape3D -> Capsule
 
+```bash
+for i in move_{forward,back,left,right}; do echo "$i"; done
+```
 
 ## SCRIPTS
 
@@ -73,4 +77,16 @@ func _physics_process(delta: float) -> void:
 
 ```
 
+
+# FURTHER READINGS/SCREENSHOTS/VISUAL DOCS
+<img width="1120" height="214" alt="image" src="https://github.com/user-attachments/assets/02a5c736-5d10-4523-b698-636673fbfc69" />
+
+
+```bash
+for i in move_{forward,back,left,right}; do echo "$i"; done
+move_forward
+move_back
+move_left
+move_right
+```
 
